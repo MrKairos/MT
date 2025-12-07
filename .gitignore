@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
